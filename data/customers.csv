@@ -1,0 +1,11 @@
+customer_id,name,age,city,email
+1, Rahul,25,Bhubaneswar,rahul@gmail.com
+2,Ankit,30,Delhi,ankit@gmail.com
+3,,22,Mumbai,missing@gmail.com
+4, Priya ,28,Bangalore,priya@gmail.com
+5,Rahul,25,Bhubaneswar,rahul@gmail.com
+6,Neha,,Hyderabad,neha@gmail.com
+7,Aman,24,,aman@gmail.com
+8,Ankit,30,Delhi,ankit@gmail.com
+9,Soumya,abc,Cuttack,soumya@gmail.com
+10,Rakesh,35,Pune,
